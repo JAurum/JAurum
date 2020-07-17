@@ -1,4 +1,4 @@
-### Hello there 👋
+### <center>Hello there 👋</center>
 
 <!--
 **JAurum/JAurum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
