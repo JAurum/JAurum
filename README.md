@@ -5,9 +5,8 @@
   <a href='http://weibo.com/5315709296'>Weibo</a>
 </p>
 
-<p align='center'>I am basically a front-end developer 😂 , and occasionally a back-end developer (usually my own project).</p>
-
-<p align='center'>I just graduated 👨‍🎓 , and trying to get a job.</p>
+<p align='center'>I am a front-end developer, and occasionally a back-end developer (usually my own project 😂).Sometimes do some other cool things, such as <a href="https://mp.weixin.qq.com/cgi-bin/wx" />Weixin(Wechat) mini programs.</a>
+</p>
 
 ----
 
